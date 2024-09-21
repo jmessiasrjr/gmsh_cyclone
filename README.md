@@ -1,2 +1,2 @@
-# gmsh_cyclone
-Geo file for cyclone meshing
+# gmsh cyclone file
+Geo file for cyclone meshing (incomplete)
